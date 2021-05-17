@@ -1,4 +1,4 @@
-![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)
+[![Slam](https://telegra.ph/file/511f10824f13e639703e1.jpg)](https://t.me/request_ayush)
 
 # owner of this repo :- [AYUSH](https://github.com/spe4641)
 
@@ -10,9 +10,8 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 i have changed aria.sh file to support it on heroku.
 
 ## Deploying on Heroku
-Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
+Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks click [here](https://github.com/ayushteke/python_aria_mirror_bot_HEROKU#getting-google-oauth-api-credential-file) for more details
 
-to know how to get them click on the  #[ link ](https://github.com/spe4641/test-new#getting-google-oauth-api-credential-file)
 
 after this click on the below button 👇👇👇👇
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
@@ -76,7 +75,6 @@ sudo pacman -S docker python
 ```
 
 ## Setting up config file
-<details>
     <summary><b>Click here for more details</b></summary>
 
 ```
